@@ -1,2 +1,21 @@
 # yehen_front_end
-个人网站-前端
+
+个人网站前端
+
+## Project Setup
+
+```sh
+npm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Type-Check, Compile and Minify for Production
+
+```sh
+npm run build
+```
